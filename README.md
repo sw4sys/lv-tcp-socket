@@ -1,5 +1,9 @@
 # lv-tcp-socket
 
-LabVIEW version: 2021 (32-bit)
-
 LabVIEW OOP library for handling TCP sockets.
+
+---
+
+*LabVIEW Community Edition*
+
+*Version 2022 Q3 (32-bit) 22.3.1f8*
