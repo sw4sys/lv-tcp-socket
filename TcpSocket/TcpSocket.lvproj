@@ -12,11 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="TcpSocket" Type="Folder">
-			<Item Name="TcpSocket.lvlib" Type="Library" URL="../Source/TcpSocket/TcpSocket.lvlib"/>
-		</Item>
-		<Item Name="TcpClient.vi" Type="VI" URL="../Source/TcpClient.vi"/>
-		<Item Name="TcpServer.vi" Type="VI" URL="../Source/TcpServer.vi"/>
+		<Item Name="TcpSocket.lvlib" Type="Library" URL="../Source/TcpSocket/TcpSocket.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
